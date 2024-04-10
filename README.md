@@ -1,9 +1,15 @@
+<p align="center">
+  <img alt="CQBus" src="docs/logo_readme.png" width="60%">
+</p>
+
+<!-- A spacer -->
+<p>&nbsp;</p>
+
+<h2 align="center">Simple Typescript and Javascript command/query bus (lite version)</h2>
+
 [![npm](https://img.shields.io/npm/v/@nbottarini/cqbus-lite.svg)](https://www.npmjs.com/package/@nbottarini/cqbus-lite)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![CI Status](https://github.com/nbottarini/cqbus-lite-js/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/nbottarini/cqbus-lite-js/actions)
-
-# CQBus lite
-Simple javascript/typescript command &amp; query bus. For use in CQRS and Clean Architecture / Hexagonal projects. Lightweight alternative to @nbottarini/cqbus to use in frontend environments
 
 ## Installation
 

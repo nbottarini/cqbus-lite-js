@@ -1,7 +1,7 @@
 {
   "name": "@nbottarini/cqbus-lite",
   "version": "0.1.0",
-  "description": "Simple javascript/typescript command &amp; query bus. For use in CQRS and Clean Architecture / Hexagonal projects. Lightweight alternative to @nbottarini/cqbus to use in frontend environments.",
+  "description": "Simple Typescript and Javascript command/query bus (lite version)",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "browser": "dist/esm/index.js",
